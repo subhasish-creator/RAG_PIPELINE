@@ -8,6 +8,10 @@
 
 ![Demo Screenshot](Image/app_rag.png)
 
+## 📸 RAG Response on User Query
+
+![Demo Screenshot](Image/app_rag_response.png)
+
 ## ⚙️ Features
 
 - 🔍 PDF/Text Ingestion using LlamaIndex
