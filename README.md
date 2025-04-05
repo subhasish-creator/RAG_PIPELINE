@@ -32,5 +32,6 @@ streamlit run app_rag.py --server.address 127.0.0.1 --server.port 8502
 - modules\vectore_store.py is use for VectorDB creation
 - modules\query_engine.py is use for handling query
 - modules\task2.py is use for storing Database locally
+- Storage folder store knowledgeDB created by VectorStorIndex locally in HardDisk
 - app.py for UI part of LLM
   
