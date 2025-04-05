@@ -4,6 +4,10 @@
 
 ![demo](Image/demo.gif)
 
+## 📸 UI Exposure
+
+![Demo Screenshot](Image/app_rag.png)
+
 ## ⚙️ Features
 
 - 🔍 PDF/Text Ingestion using LlamaIndex
