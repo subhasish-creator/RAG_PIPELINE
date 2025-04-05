@@ -22,15 +22,16 @@
 - Streamlit
 - Python 3.10+
 
-  
-Setup Instructions
-Clone the repo
-git clone https://github.com/subhasish-creator/RAG.git
-cd your-repo-name
+## 🛠️ Installation
 
+```bash
+git clone https://github.com/subhasish-creator/RAG_pipeline.git
+cd RAG_pipeline
+pip install -r requirements.txt
 streamlit run app_rag.py --server.address 127.0.0.1 --server.port 8502
 
-## Folder Struccture Information:
+## ⚙️ Features
+
 - RAG folder consist components, config,data,modules and utils blocks
 - data folder hold the supplied data file (PDF or Txt)
 - config folder hold config.yaml file. This file talk about LLM model name and its parameter.
