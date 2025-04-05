@@ -30,7 +30,7 @@ cd RAG_pipeline
 pip install -r requirements.txt
 streamlit run app_rag.py --server.address 127.0.0.1 --server.port 8502
 
-## ⚙️ Features
+## ⚙️ Folder Structure Information at High level
 
 - RAG folder consist components, config,data,modules and utils blocks
 - data folder hold the supplied data file (PDF or Txt)
