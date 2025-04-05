@@ -1,21 +1,28 @@
-# RAG_pipeline
+# 🚀 AI-Powered RAG Pipeline
 
-RAG
-AI Assistant Powered by RAG (Retrieval-Augmented Generation)
-This is a simple AI assistant built using Streamlit and LlamaIndex, that allows users to upload context files (PDF/TXT) and ask questions based on their content using OpenAI GPT models.
+## 📸 Demo
 
-Features
-Upload PDF or TXT documents
-Index content using FAISS + LlamaIndex
-Ask context-aware questions
-Powered by OpenAI GPT (e.g., gpt-3.5-turbo)
-Lightweight, fast, and easy to use via a web UI
-Technologies Used
-Python 🐍
-Streamlit
-FAISS
-LlamaIndex
-OpenAI API
+![demo](Image/demo.gif)
+
+## ⚙️ Features
+
+- 🔍 PDF/Text Ingestion using LlamaIndex
+- 🧠 Smart Retrieval using FAISS
+- 💬 Query with OpenAI GPT-3.5
+- 📦 Modular Code Structure
+- 🚀 Easy Streamlit UI (Optional)
+
+
+
+## 📦 Tech Stack
+
+- LlamaIndex
+- FAISS
+- OpenAI GPT
+- Streamlit
+- Python 3.10+
+
+  
 Setup Instructions
 Clone the repo
 git clone https://github.com/subhasish-creator/RAG.git
