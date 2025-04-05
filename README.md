@@ -40,14 +40,14 @@ streamlit run app_rag.py --server.address 127.0.0.1 --server.port 8502
 
 ## ⚙️ Folder Structure Information at High level
 
-- RAG folder consist components, config,data,modules and utils blocks
-- data folder hold the supplied data file (PDF or Txt)
-- config folder hold config.yaml file. This file talk about LLM model name and its parameter.
-- modules\config_loader.py load the LLM model as perconfiguration of yaml file
-- modules\data_loader.py load the data file needed for embedding
-- modules\vectore_store.py is use for VectorDB creation
-- modules\query_engine.py is use for handling query
-- modules\task2.py is use for storing Database locally
-- Storage folder store knowledgeDB created by VectorStorIndex locally in HardDisk
-- app.py for UI part of LLM
+- 🔍 RAG folder consist components, config,data,modules and utils blocks
+- 🔍 data folder hold the supplied data file (PDF or Txt)
+- 🔍 config folder hold config.yaml file. This file talk about LLM model name and its parameter.
+- 🔍 modules\config_loader.py load the LLM model as perconfiguration of yaml file
+- 🔍 modules\data_loader.py load the data file needed for embedding
+- 🔍 modules\vectore_store.py is use for VectorDB creation
+- 🔍 modules\query_engine.py is use for handling query
+- 🔍 modules\task2.py is use for storing Database locally
+- 🔍 Storage folder store knowledgeDB created by VectorStorIndex locally in HardDisk
+- 🔍 app.py for UI part of LLM
   
