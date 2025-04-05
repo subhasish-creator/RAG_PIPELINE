@@ -31,4 +31,6 @@ streamlit run app_rag.py --server.address 127.0.0.1 --server.port 8502
 - modules\data_loader.py load the data file needed for embedding
 - modules\vectore_store.py is use for VectorDB creation
 - modules\query_engine.py is use for handling query
+- modules\task2.py is use for storing Database locally
 - app.py for UI part of LLM
+  
